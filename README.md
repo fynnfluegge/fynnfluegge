@@ -8,7 +8,7 @@
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" alt="drawing" width="32" height="16"/> since 2019
   - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular.svg" alt="drawing" width="48"/> 2, <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript.svg" alt="drawing" width="52"/> & <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="drawing" width="16"/>
   - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" alt="drawing" width="60"/> & <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" alt="drawing" width="16"/>
-  - 2 years of <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="drawing" width="52"/> ❤️
+  - 2 years of <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="drawing" width="56"/> ❤️
   - 2 years of C#
   - currently getting proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg" alt="drawing" width="16"/>, <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg" alt="drawing" width="16"/> & <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="drawing" width="16"/>
  - during studies I had a lot of fun with shader programming and <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opengl.svg" alt="drawing" width="16"/> + <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vulkan.svg" alt="drawing" width="16"/>
