@@ -1,12 +1,14 @@
 ### Hi there 👋
 - 👨‍💻 I am a Software Developer from Germany, Hamburg.
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
+- > I belong to the ZSH family. iTerm2 + ZSH 🚀
 - My software engineering experience:
   - Java since 2012
   - AWS since 2019
   - 2 years of Kotlin ❤️
   - 2 years of C#
   - proficient with Angular & Vue.js, Typescript & Javascript
+  - proficient with Docker & Kubernetes
   - currently learning Go & Python
 <!--
 **fynnfluegge/fynnfluegge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
