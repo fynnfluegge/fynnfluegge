@@ -6,7 +6,7 @@
 - My software engineering experience:
   - Java since 2012
   - AWS since 2019
-  - proficient with Angular, Typescript & Javascript
+  - proficient with Angular 2, Typescript & Javascript
   - proficient with Docker & Kubernetes
   - 2 years of Kotlin ❤️
   - 2 years of C#
