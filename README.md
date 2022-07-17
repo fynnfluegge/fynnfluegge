@@ -8,7 +8,7 @@
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" alt="drawing" width="16"/> AWS since 2019
   - proficient with Angular 2, Typescript & Javascript
   - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" alt="drawing" width="52"/> & <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" alt="drawing" width="16"/>Kubernetes
-  - 2 years of <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="drawing" width="16"/> Kotlin ❤️
+  - 2 years of <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="drawing" width="52"/> ❤️
   - 2 years of C#
   - currently learning Vue.js, Go & Python
  - during studies I had a lot of fun with shader programming and OpenGL + Vulkan
