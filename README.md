@@ -11,6 +11,7 @@
   - 2 years of Kotlin ❤️
   - 2 years of C#
   - currently learning Vue.js, Go & Python
+ - during studies had a lot of fun with shader programming and OpenGL + Vulkan
 <!--
 **fynnfluegge/fynnfluegge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
