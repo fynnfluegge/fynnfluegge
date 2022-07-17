@@ -4,7 +4,7 @@
 - 🚀 iTerm2 + ZSH fanboy
 - 🦾 Serverless proponent
 - My software engineering experience:
-  - https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg Java since 2012
+  - !(https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg) Java since 2012
   - AWS since 2019
   - proficient with Angular 2, Typescript & Javascript
   - proficient with Docker & Kubernetes
