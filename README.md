@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👨‍💻 I am a Software Developer from Germany, Hamburg.
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
-- > I belong to the ZSH family. iTerm2 + ZSH 🚀
+- 🚀 iTerm2 + ZSH user
 - My software engineering experience:
   - Java since 2012
   - AWS since 2019
