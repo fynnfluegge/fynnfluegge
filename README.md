@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am a Software Developer from Germany, Hamburg.
 
-- I am a Software Developer from Germany, Hamburg.
 - I did my Master's degree in Computational Science and Engineering at TU Hamburg.
 - My experience
   - Java since 2014
