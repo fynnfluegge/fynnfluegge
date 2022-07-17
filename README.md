@@ -2,12 +2,12 @@
 - 👨‍💻 I am a Software Developer from Germany, Hamburg.
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
 - My software engineering experience:
-  - Java since 2014
+  - Java since 2012
   - AWS since 2019
   - 2 years of Kotlin ❤️
   - 2 years of C#
   - proficient with Angular & Vue.js, Typescript & Javascript
-  - and I love serverless!
+  - currently learning Go & Python
 <!--
 **fynnfluegge/fynnfluegge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
