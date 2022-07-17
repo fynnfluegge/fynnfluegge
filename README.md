@@ -1,14 +1,13 @@
 ### Hi there 👋
 - 👨‍💻 I am a Software Developer from Germany, Hamburg.
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
-- My experience
+- My software engineering experience:
   - Java since 2014
   - AWS since 2019
-  - 2 years of Kotlin
+  - 2 years of Kotlin ❤️
   - 2 years of C#
-  - Angular, Typescript, Javascri
-  pt
-  - currently learning Go
+  - proficient with Angular, Typescript & Javascript
+  - Currently working with Spring Boot + Vue Stack
 <!--
 **fynnfluegge/fynnfluegge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
