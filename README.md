@@ -6,7 +6,7 @@
 - Software engineering experience:
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="drawing" width="16"/> Java since 2012
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" alt="drawing" width="28" height="16"/> since 2019
-  - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular.svg" alt="drawing" width="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript.svg" alt="drawing" width="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="drawing" width="16"/>
+  - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular.svg" alt="drawing" width="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript.svg" alt="drawing" width="58"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="drawing" width="16"/>
   - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" alt="drawing" width="60"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" alt="drawing" width="16"/>
   - 2 years of <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="drawing" width="56"/> ❤️
   - 2 years of C#
