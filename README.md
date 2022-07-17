@@ -6,7 +6,7 @@
 - My software engineering experience:
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="drawing" width="16"/> Java since 2012
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" alt="drawing" width="16"/> AWS since 2019
-  - proficient with Angular 2, Typescript & Javascript
+  - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular.svg" alt="drawing" width="52"/> 2, Typescript & Javascript
   - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" alt="drawing" width="52"/> & <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" alt="drawing" width="16"/>Kubernetes
   - 2 years of <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="drawing" width="52"/> ❤️
   - 2 years of C#
