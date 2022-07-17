@@ -6,9 +6,8 @@
   - AWS since 2019
   - 2 years of Kotlin ❤️
   - 2 years of C#
-  - proficient with Angular, Typescript & Javascript
-  - Currently working with Spring Boot + Vue Stack and learning Go
-  - I love serverless
+  - proficient with Angular & Vue.js, Typescript & Javascript
+  - and I love serverless!
 <!--
 **fynnfluegge/fynnfluegge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
