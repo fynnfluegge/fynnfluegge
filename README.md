@@ -12,7 +12,7 @@
   - 2 years of C#
   - currently getting proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg" alt="drawing" width="16"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg" alt="drawing" width="34"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="drawing" width="14"/>
  - during studies I had a lot of fun with shader programming and <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opengl.svg" alt="drawing" width="38"/> & <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vulkan.svg" alt="drawing" width="48"/>
- - I like efficiency, currently trying to optimize my coding life with Raycast
+ - I like efficiency, currently trying to optimize my coding life with [Raycast](https://github.com/raycast)
 <!--
 **fynnfluegge/fynnfluegge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
