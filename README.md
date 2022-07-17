@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 👨‍💻 I am a Software Developer from Germany, Hamburg.
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
-- 🚀 iTerm2 + ZSH fanboy
-- 🦾 Serverless proponent
+- 🚀 iTerm2 + ZSH user
+- 🦾 Serverless fanboy
 - My software engineering experience:
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="drawing" width="16"/> Java since 2012
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" alt="drawing" width="28" height="16"/> since 2019
