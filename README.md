@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👨‍💻 I am a Software Developer from Germany, Hamburg.
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
-- 🚀 iTerm2 + ZSH user
+- 🚀 iTerm2 + zsh user
 - 🦾 Serverless fanboy
   - I am the creator of the serverless note taking app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>
 - Software engineering experience:
