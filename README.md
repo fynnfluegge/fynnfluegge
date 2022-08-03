@@ -3,7 +3,7 @@
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
 - 🚀 iTerm2 + zsh user
 - 🦾 Serverless enthusiast
-  - I am the creator of the serverless note taking app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>
+  - I created the serverless note taking app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>
 - Software engineering experience:
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="16"/> Java since 2012
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="28" height="16"/> since 2019
