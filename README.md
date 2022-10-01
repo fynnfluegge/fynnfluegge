@@ -14,7 +14,7 @@
   - 2 years of C#
   - currently getting proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg" width="38"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg" width="16"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="14"/>
  - during studies I had a lot of fun with shader programming and <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opengl.svg" width="38"/> & <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vulkan.svg" width="48"/>
-   - 👉 [Paper: FFT Ocean Water simulation](https://tore.tuhh.de/handle/11420/1439?locale=en)
+   - 👉 [Paper: FFT Ocean Water Simulation](https://tore.tuhh.de/handle/11420/1439?locale=en)
    - 👉 [Thesis: Vulkan Render Engine](https://www.grin.com/document/456305)
  - I like efficiency, currently trying to optimize my coding life with [Raycast](https://github.com/raycast)
 <!--
