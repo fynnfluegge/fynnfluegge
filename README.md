@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨‍💻 I am a Software Developer from Germany, Hamburg.
+- 👨‍💻 I am a Software Engineer from Germany, Hamburg.
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
 - 🚀 iTerm2 + zsh user
 - 🦾 Serverless enthusiast
