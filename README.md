@@ -3,7 +3,7 @@
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
 - 🚀 iTerm2 + zsh user
 - 🦾 Serverless enthusiast
-  - 👉  Checkout my serverless note taking app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/> with Techstack Angular 2 and aws cdk/lambda together with go. 
+  - 👉  Checkout my serverless note taking app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/> with Techstack Angular 2, AWS Lambda (Go) and AWS CDK. 
 - Software engineering experience:
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="16"/> Java since 2012
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="28" height="16"/> since 2019
