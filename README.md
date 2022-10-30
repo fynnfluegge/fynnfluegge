@@ -6,7 +6,7 @@
   - 👉  Checkout my note taking app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>
      - Tech Stack Angular 2, AWS Lambda (Go) and AWS CDK. 
 - Software engineering experience:
-  - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="16"/> Java since 2012
+  - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="16"/> Java since 2014
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="28" height="16"/> since 2019
   - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular.svg" alt="" width="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript.svg" width="62"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="16"/>
   - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" width="60"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="16"/>
