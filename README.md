@@ -2,7 +2,7 @@
 - 👨‍💻 I am a Software Engineer from Germany, Hamburg.
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
 - 🚀 iTerm2 + zsh user
-- 🦾 Serverless enthusiast
+- 🦾 Serverless fan
   - 👉  Checkout my note taking app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="16"/>
      - Tech Stack Angular 2, AWS Lambda (Go) and AWS CDK. 
 - Software engineering experience:
