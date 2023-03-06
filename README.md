@@ -3,7 +3,7 @@
 - 🎓 I did my Master's degree in Computational Science and Engineering at TU Hamburg.
 - 🚀 I use [zsh + oh-my-zsh + powerlevel10k](https://app.takeniftynotes.net/shared/391001a7-b743-4505-8037-3349a0f1aede)
 - 🛸 Serverless I like
-  - 👉  Checkout my serverless note taking app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="14"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="14"/>
+  - 👉  Checkout my serverless app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="14"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="14"/>
      - Stack: Angular, AWS Lambda (Go), Amazon DynamoDB, AWS CDK. 
 - Software engineering experience:
   - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="16"/> Java since 2014
