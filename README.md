@@ -5,16 +5,8 @@
 - 🛸 Serverless I like
   - 👉  Checkout my serverless app <img src="https://www.takeniftynotes.net/assets/128x128.png" width="14"/>[Rocketnotes](https://www.takeniftynotes.net)<img src="https://www.takeniftynotes.net/assets/128x128.png" width="14"/>
      - Stack: Angular, AWS Lambda (Go), Amazon DynamoDB, AWS CDK. 
-- Software engineering experience:
-  - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="16"/> Java since 2014
-  - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="28" height="16"/> since 2019
-  - highly proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="18"/>
-  - proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript.svg" width="68"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular.svg" alt="" width="58"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg" width="18"/> 
-  - familiar with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" width="60"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="18"/>
-  - 3 years of <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg" width="64"/>
-  - 2 years of <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" width="56"/>
-  - 2 years of C#
-  - currently getting more proficient with <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg" width="38"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="14"/>
+- Software engineering experience with
+  - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="28" height="16"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="18"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript.svg" width="68"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="16"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" width="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg" width="64"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular.svg" alt="" width="58"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg" width="18"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" width="60"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="18"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg" width="38"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="14"/>
  - during studies I had a lot of fun with shader programming and <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opengl.svg" width="38"/> & <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vulkan.svg" width="48"/>
    - 👉 [Paper: FFT Ocean Water Simulation](https://tore.tuhh.de/handle/11420/1439?locale=en)
    - 👉 [Thesis: Vulkan Render Engine](https://www.grin.com/document/456305)
