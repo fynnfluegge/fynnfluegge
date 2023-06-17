@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👨‍💻 I am a Software Engineer from Germany, Hamburg.
 - 💻 for coding I use Alacritty + AstroNvim as my IDE
-- 🚀 my shell config is based on [zsh + oh-my-zsh + powerlevel10k](https://app.takeniftynotes.net/shared/391001a7-b743-4505-8037-3349a0f1aede)
+- 🚀 my shell config with [zsh + oh-my-zsh + powerlevel10k](https://app.takeniftynotes.net/shared/391001a7-b743-4505-8037-3349a0f1aede)
 - 🛸 Serverless I like
   - Checkout my serverless app
      - 👉 [<img src="https://www.takeniftynotes.net/assets/128x128.png" width="12"/>&#160;Rocketnotes&#160;<img src="https://www.takeniftynotes.net/assets/128x128.png" width="12"/>](https://www.takeniftynotes.net)
