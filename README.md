@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 👨‍💻 I am a Software Engineer from Germany, Hamburg.
-- The mouse is lava, so I code with vim.
-- Techstack I am using
-  - <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="28" height="16"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="18"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="18"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript.svg" width="68"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="32"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="16"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" width="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg" width="64"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular.svg" alt="" width="58"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg" width="18"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" width="60"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="18"/>
+- 💻 I am a Software Engineer from Hamburg.
+- 👨‍💻 The mouse is lava, so I code with vim.
 
 <!-- <div style="display: flex;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=fynnfluegge&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="fynnfluegge's GitHub stats" height="220" />
