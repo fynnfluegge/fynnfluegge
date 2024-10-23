@@ -1,4 +1,3 @@
-# <img src="https://github.com/fynnfluegge/fynnfluegge/assets/16321871/7f96076f-6486-4d76-ac3c-b5304690ede9" height="42" />
 - 💻 I am a Software Engineer from Hamburg.
 - 👨‍💻 The mouse is lava, so I code with vim.
 
